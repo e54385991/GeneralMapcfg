@@ -1,0 +1,11 @@
+"mapname"
+{
+	"mg_laboratory" 
+	{
+		"chi"		"CF幽灵模式_实验室"
+		"credit"		"400"
+		"CanNominateInterval"		"86400" 
+		"onlynominate" "1"
+		"onlyadmin" "1"
+	}
+}

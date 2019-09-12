@@ -1,0 +1,7 @@
+"mg_laboratory_ghostmode" 
+{
+"chi"	"CF幽灵模式_地下研究所" 
+"credit"	"300" 
+"CanNominateInterval"	"86400" 
+"onlyadmin" "1"
+}

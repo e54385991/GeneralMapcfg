@@ -1,0 +1,11 @@
+"mapname"
+{
+	"mg_temple_ruins_escape_v1" 
+	{
+		"chi"		"CF幽灵模式_失落遗迹"
+		"credit"		"400" 
+		"CanNominateInterval"		"86400" 
+		"onlynominate" "1"
+		"onlyadmin" "1"
+	}
+}

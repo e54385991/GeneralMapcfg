@@ -1,0 +1,11 @@
+"mapname"
+{
+	"mg_temple_ruins_escape_v1" 
+	{
+		"chi"		"CF突围模式_隐匿之地"
+		"credit"		"400" //地图指定预定积分
+		"CanNominateInterval"		"86400" 
+		"onlynominate" "1"
+		"onlyadmin" "1"
+	}
+}
